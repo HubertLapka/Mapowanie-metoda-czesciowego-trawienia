@@ -47,7 +47,7 @@ int main() {
     }
     cout << endl << "Amount: " << count << endl;
 
-    saveResultToFile(sumresult, "instancja14b.txt");
+    saveResultToFile(sumresult, "instancja.txt");
 
     return 0;
 }
